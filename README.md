@@ -32,7 +32,7 @@ View your app in AI Studio: https://ai.studio/apps/drive/1Qc9CtGr1qWyHIfI5Bnq1u6
 Ahsanullah University of Science & Technology
 Department of Electrical & Electronics Engineering
 
-2.aisa Juairia
+2.Raisa Juairia
 North South University
 Department of Electrical & Computer Engineering
 
