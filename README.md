@@ -28,13 +28,13 @@ View your app in AI Studio: https://ai.studio/apps/drive/1Qc9CtGr1qWyHIfI5Bnq1u6
 
 
 # Team Details
-1.Raisa Juairia
-North South University
-Department of Electrical & Computer Engineering
-
-2.Ayon Rahman
+1.Ayon Rahman
 Ahsanullah University of Science & Technology
 Department of Electrical & Electronics Engineering
+
+2.aisa Juairia
+North South University
+Department of Electrical & Computer Engineering
 
 3.Lubaba Ahmed
 North South University
@@ -45,14 +45,14 @@ Department of Electrical & Computer Engineering
 Healthcare in rural and hill-tract regions of Bangladesh is often inaccessible. Long travel distances are costly and time consuming. Remote locations, rough terrain, and limited medical facilities make timely treatment difficult.
 
 
-#Solution Overview
+# Solution Overview
 - AI-guided medical consultation
 - Emergency alerts and guidance
 - Health records management
 - Offline support for low-connectivity areas
 - Location-based nearest hospital finder
 
-#Goals:
+# Goals:
 Ensuring the healthcare of underserved people of rural and hill areas.The Healthcare will be trustworthy and not time consuming during long travel distance
 
 # Features 
@@ -70,7 +70,7 @@ AI Doctor:* Chat with an AI assistant for medical guidance
 -*Area and Environment Based Health Care:* Pre preparation and solution 
 
 
-#Tech Stack
+# Tech Stack
 
 
 - Frontend:React Native (Mobile App)  
@@ -79,7 +79,7 @@ AI Doctor:* Chat with an AI assistant for medical guidance
 - Deployment:** AI Studio  
 
 
-#UI
+# UI
 The application features a "Mission Control" style dashboard:
 Tactical Map: A central dark-mode map displaying sensor nodes and risk heatmaps.
 Telemetry Sidebar: Real-time feeds of Soil Moisture (%), Seismic Vibration (Hz), and Incline (Degrees).
@@ -143,7 +143,7 @@ HillShield/
 
 ```
 
-AI Tools Disclosure 
+# AI Tools Disclosure 
 
 | AI Tools | Website Links |
 |------------|-------|
