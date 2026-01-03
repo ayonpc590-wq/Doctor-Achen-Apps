@@ -153,7 +153,7 @@ AI Tools Disclosure
 | VS Code|(https://vscode.dev/)  |
 | Google Gemini Pro |(https://gemini.google.com/app)  |
  
-# How The Solution handles limited internet Access
+
 
 
  
